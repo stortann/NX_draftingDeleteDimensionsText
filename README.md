@@ -1,2 +1,2 @@
 # NX_draftingDeleteDimensionsText
-Macro for NX Drafting to change every dimensions' text on every Sheet to ""
+Macro for NX Drafting to change every dimension's text on every Sheet to ""
